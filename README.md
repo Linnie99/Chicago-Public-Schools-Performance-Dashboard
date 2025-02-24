@@ -2,7 +2,7 @@ This interactive Tableau dashboard provides a view of key performance metrics ac
 
 📊 Key Features
 
-✅ Performance Metrics – Visualizes teacher response ratings, graduation rates, and other key indicators.
-✅ Trend Analysis – Highlights historical patterns to identify school performance improvements or declines.
-✅ Comparative Insights – Allows for side-by-side school comparisons to benchmark performance across the district.
-✅ Executive-Friendly – No technical expertise required; the dashboard is intuitive and interactive.
+    ✅ Performance Metrics – Visualizes teacher response ratings, graduation rates, and other key indicators.
+    ✅ Trend Analysis – Highlights historical patterns to identify school performance improvements or declines.
+    ✅ Comparative Insights – Allows for side-by-side school comparisons to benchmark performance across the district.
+    ✅ Executive-Friendly – No technical expertise required; the dashboard is intuitive and interactive.
